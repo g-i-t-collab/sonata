@@ -1,0 +1,117 @@
+.watch{
+
+     display:flex;
+
+     margin-top:100px;
+
+
+}
+
+.about{
+
+     
+     margin-top: 100px;
+
+     padding:100px;
+
+
+
+}
+
+.nav-item{
+
+   padding-left:100px;
+
+
+}
+
+.carouselslide{
+
+      padding:10px;
+
+      margin-top:0px;
+
+       width:50%;
+
+       
+}
+
+.carousel-inner{
+
+  padding:10px;
+
+  margin-top:-50px;
+
+  width:50%;
+
+  
+}
+
+
+.contact{
+
+  display:flex;
+
+  margin-top:100px;
+
+
+  padding-top:100px;
+
+
+   background-color:rgb(154, 234, 240);
+
+ 
+  height:700px;
+
+}
+
+
+.contact1{
+
+
+  display:flex;
+
+  
+  height:500px;
+
+}
+
+
+.socialmedia-0{
+ 
+   padding-left:250px;
+
+
+}
+
+.socialmedia{
+
+   padding-top:80px;
+
+
+}
+
+
+.map{
+
+  padding-left:150px;
+
+  height:70px;
+
+  width:60px;
+
+
+}
+
+
+.heading{
+
+   text-align: center;
+
+   margin-top:200px;
+
+   font-size:100px;
+
+
+
+}
